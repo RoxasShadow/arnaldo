@@ -1,6 +1,6 @@
 Arnaldo
 =======
-Get random proverbs from [arnaldo](arnaldo.informateci.org).
+Get random proverbs from [arnaldo](http://arnaldo.informateci.org).
 
 Install
 -------
