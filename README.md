@@ -1,13 +1,13 @@
 Arnaldo
-=================================================
+=======
 Get random proverbs from [arnaldo](arnaldo.informateci.org).
 
 Install
-====
-`gem install treccani`
+-------
+`gem install arnaldo`
 
 Example
-====
+-------
 ```ruby
 require 'arnaldo'
 
